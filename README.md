@@ -39,3 +39,11 @@ Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `
 - `C` can be placed before `D` (500) and `M` (1000) to make 400 and 900.
 
 Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
+
+## Problem 5
+**Name**: Merge k Sorted Lists<br>
+**Difficulty**: Hard<br>
+**Source**: LeetCode<br>
+**Python Score**: 72ms (93rd percentile)<br>
+
+Merge k sorted linked lists and return it as one sorted list.
