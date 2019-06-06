@@ -55,3 +55,11 @@ Merge k sorted linked lists and return it as one sorted list.
 **Python Score**: 28ms (99th percentile)<br>
 
 Given a 32-bit signed integer, reverse digits of an integer. Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
+
+## Problem 7
+**Name**: Palindrome Number<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 64ms (95th percentile)<br>
+
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
