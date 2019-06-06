@@ -63,3 +63,11 @@ Given a 32-bit signed integer, reverse digits of an integer. Assume we are deali
 **Python Score**: 64ms (95th percentile)<br>
 
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+## Problem 8
+**Name**: Remove Nth Node From End of List<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**Python Score**: 0ms (100th percentile)<br>
+
+Given a linked list, remove the n-th node from the end of list and return its head.
