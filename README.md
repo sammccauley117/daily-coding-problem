@@ -68,6 +68,6 @@ Determine whether an integer is a palindrome. An integer is a palindrome when it
 **Name**: Remove Nth Node From End of List<br>
 **Difficulty**: Medium<br>
 **Source**: LeetCode<br>
-**Python Score**: 0ms (100th percentile)<br>
+**C++ Score**: 0ms (100th percentile)<br>
 
 Given a linked list, remove the n-th node from the end of list and return its head.
