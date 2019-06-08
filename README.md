@@ -71,3 +71,19 @@ Determine whether an integer is a palindrome. An integer is a palindrome when it
 **C++ Score**: 0ms (100th percentile)<br>
 
 Given a linked list, remove the n-th node from the end of list and return its head.
+
+## Problem 9
+**Name**: Sort Colors<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**C++ Score**: 36ms (90th percentile)<br>
+
+Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue. Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively. Note: You are not suppose to use the library's sort function for this problem.
+
+## Problem 10
+**Name**: Majority Element<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**C++ Score**: 44ms (95th percentile)<br>
+
+Given an array of size *n*, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. You may assume that the array is non-empty and the majority element always exist in the array.
