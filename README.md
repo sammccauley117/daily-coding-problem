@@ -87,3 +87,13 @@ Given an array with n objects colored red, white or blue, sort them in-place so 
 **C++ Score**: 44ms (95th percentile)<br>
 
 Given an array of size *n*, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. You may assume that the array is non-empty and the majority element always exist in the array.
+
+## Problem 11
+**Name**: Search a 2D Matrix<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**C++ Score**: 8ms (97th percentile)<br>
+
+Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+- Integers in each row are sorted from left to right.
+- The first integer of each row is greater than the last integer of the previous row.
