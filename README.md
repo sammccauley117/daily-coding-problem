@@ -76,7 +76,7 @@ Given a linked list, remove the n-th node from the end of list and return its he
 **Name**: Sort Colors<br>
 **Difficulty**: Medium<br>
 **Source**: LeetCode<br>
-**C++ Score**: 36ms (90th percentile)<br>
+**Python Score**: 36ms (90th percentile)<br>
 
 Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue. Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively. Note: You are not suppose to use the library's sort function for this problem.
 
@@ -84,7 +84,7 @@ Given an array with n objects colored red, white or blue, sort them in-place so 
 **Name**: Majority Element<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**C++ Score**: 44ms (95th percentile)<br>
+**Python Score**: 44ms (95th percentile)<br>
 
 Given an array of size *n*, find the majority element. The majority element is the element that appears more than ⌊n/2⌋ times. You may assume that the array is non-empty and the majority element always exist in the array.
 
@@ -105,3 +105,21 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 **C++ Score**: 40ms (99th percentile)<br>
 
 Given a singly linked list L: L0→L1→…→Ln-1→Ln, reorder it to: L0→Ln→L1→Ln-1→L2→Ln-2→… You may not modify the values in the list's nodes, only nodes itself may be changed.
+
+## Problem 13
+**Name**: Excel Sheet Column<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 36ms (83rd percentile)<br>
+
+Given a positive integer, return its corresponding column title as appear in an Excel sheet. For example:
+```
+1 -> A
+2 -> B
+3 -> C
+...
+26 -> Z
+27 -> AA
+28 -> AB
+...
+```
