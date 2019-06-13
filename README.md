@@ -131,3 +131,10 @@ Given a positive integer, return its corresponding column title as appear in an 
 **Python Score**: 4ms (83rd percentile)<br>
 
 Given an integer, write a function to determine if it is a power of two.
+
+## Problem 15
+**Name**: Gray Code<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+
+The gray code is a binary numeral system where two successive values differ in only one bit. Given a non-negative integer n representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.
