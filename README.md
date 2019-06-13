@@ -123,3 +123,11 @@ Given a positive integer, return its corresponding column title as appear in an 
 28 -> AB
 ...
 ```
+
+## Problem 14
+**Name**: Power of Two<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 4ms (83rd percentile)<br>
+
+Given an integer, write a function to determine if it is a power of two.
