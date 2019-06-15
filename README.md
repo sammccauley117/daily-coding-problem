@@ -146,3 +146,11 @@ The gray code is a binary numeral system where two successive values differ in o
 **Python Score**: 68ms (48th percentile)<br>
 
 Given a sorted array *nums*, remove the duplicates in-place such that each element appear only *once* and return the new length. Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
+
+## Problem 17
+**Name**: Hamming Distance<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**C++ Score**: 0ms (100th percentile)<br>
+
+The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
