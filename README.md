@@ -128,7 +128,7 @@ Given a positive integer, return its corresponding column title as appear in an 
 **Name**: Power of Two<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 4ms (83rd percentile)<br>
+**C++ Score**: 4ms (83rd percentile)<br>
 
 Given an integer, write a function to determine if it is a power of two.
 
@@ -138,3 +138,11 @@ Given an integer, write a function to determine if it is a power of two.
 **Source**: LeetCode<br>
 
 The gray code is a binary numeral system where two successive values differ in only one bit. Given a non-negative integer n representing the total number of bits in the code, print the sequence of gray code. A gray code sequence must begin with 0.
+
+## Problem 16
+**Name**: Remove Duplicates from Sorted Array<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 68ms (48th percentile)<br>
+
+Given a sorted array *nums*, remove the duplicates in-place such that each element appear only *once* and return the new length. Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
