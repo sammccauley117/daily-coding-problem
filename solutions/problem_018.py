@@ -26,5 +26,4 @@ def letterCombinations(digits):
 if __name__ == '__main__':
     x = '23'
     print('Input:', x)
-    letterCombinations(x)
-    print('Output:', x)
+    print('Output:', letterCombinations(x))
