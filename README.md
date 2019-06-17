@@ -154,3 +154,11 @@ Given a sorted array *nums*, remove the duplicates in-place such that each eleme
 **C++ Score**: 0ms (100th percentile)<br>
 
 The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
+
+## Problem 18
+**Name**: Letter Combinations of a Phone Number<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**C++ Score**: 20ms (69th percentile)<br>
+Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
+A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
