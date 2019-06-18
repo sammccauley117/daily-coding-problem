@@ -159,6 +159,14 @@ The *Hamming distance* between two integers is the number of positions at which 
 **Name**: Letter Combinations of a Phone Number<br>
 **Difficulty**: Medium<br>
 **Source**: LeetCode<br>
-**C++ Score**: 20ms (69th percentile)<br>
+**Python Score**: 20ms (69th percentile)<br>
+
 Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
 A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+
+## Problem 19
+**Name**: Capitalize!<br>
+**Difficulty**: Easy<br>
+**Source**: HackerRank<br>
+
+You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, `alison heck` should be capitalized correctly as `Alison Heck`. Given a full name, your task is to capitalize the name appropriately.
