@@ -170,3 +170,16 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 **Source**: HackerRank<br>
 
 You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, `alison heck` should be capitalized correctly as `Alison Heck`. Given a full name, your task is to capitalize the name appropriately.
+
+## Problem 20
+**Name**: Leap Year!<br>
+**Difficulty**: Medium<br>
+**Source**: HackerRank<br>
+
+We add a Leap Day on February 29, almost every four years. The leap day is an extra, or intercalary day and we add it to the shortest month of the year, February. In the Gregorian calendar three criteria must be taken into account to identify leap years:
+
+1. The year can be evenly divided by 4, is a leap year.
+1. However, if the year can be evenly divided by 100, it is NOT a leap year.
+1. However, if the year is also evenly divisible by 400. Then it is a leap year.
+
+You are given the year, and you have to write a function to check if the year is leap or not. Note that you have to complete the function and remaining code is given as template.
