@@ -183,3 +183,10 @@ We add a Leap Day on February 29, almost every four years. The leap day is an ex
 1. However, if the year is also evenly divisible by 400. Then it is a leap year.
 
 You are given the year, and you have to write a function to check if the year is leap or not. Note that you have to complete the function and remaining code is given as template.
+
+## Problem 21
+**Name**: Is Unique<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)
+
+Implement an algorithm to determine if a string has all unique characters.
