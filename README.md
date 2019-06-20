@@ -190,3 +190,10 @@ You are given the year, and you have to write a function to check if the year is
 **Time Complexity**: O(n)
 
 Implement an algorithm to determine if a string has all unique characters.
+
+## Problem 22
+**Name**: Remove Duplicates<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)
+
+Write code to remove duplicates from an unsorted linked list.
