@@ -197,3 +197,10 @@ Implement an algorithm to determine if a string has all unique characters.
 **Time Complexity**: O(n)
 
 Write code to remove duplicates from an unsorted linked list.
+
+## Problem 23
+**Name**: Check Permutation<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)
+
+Given two strings, write a method to decide if one is a permutation of the other.
