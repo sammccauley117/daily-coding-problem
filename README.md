@@ -204,3 +204,10 @@ Write code to remove duplicates from an unsorted linked list.
 **Time Complexity**: O(n)
 
 Given two strings, write a method to decide if one is a permutation of the other.
+
+## Problem 24
+**Name**: Insertion<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)
+
+You are given two 32-bit numbers, `N` and `M`, and two bit positions, `i` and `j`. Write a method to insert `M` into `N` such that `M` starts at bit `j` and ends at bit `i`. You can assume that the bits `j` through `i` have enough space to fit all of `M`. That is, if `M = 10011`, you can just assume that there are at least 5 bits between `j` and `i`. You would not, for example, have `j = 3` and `i = 2`, because `M` could not fully fit between bit `3` and bit `2`. 
