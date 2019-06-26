@@ -225,3 +225,9 @@ Write a method to replace all spaces in a string with '%20', removing all leadin
 **Time Complexity**: O(n)
 
 Implement an algorithm to find the kth to last element of a singly linked list.
+
+## Problem 27
+**Name**: LinkedList<br>
+**Source**: Me<br>
+
+Implement a class for the *LinkedList* data structure with public methods *append()* and *print()*. 
