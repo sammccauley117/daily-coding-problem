@@ -230,4 +230,17 @@ Implement an algorithm to find the kth to last element of a singly linked list.
 **Name**: LinkedList<br>
 **Source**: Me<br>
 
-Implement a class for the *LinkedList* data structure with public methods *append()* and *print()*. 
+Implement a class for the *LinkedList* data structure with public methods *append()* and *print()*.
+
+## Problem 28
+**Name**: Partition<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)
+**Space Complexity**: O(1)
+
+Write code to partition a linked list around a value `x`, such that all nodes less than `x` come before all nodes greater than or equal to `x`. If `x` is contained within the list, the values of `x` only need to be after the elements less than `x` (see below). The partition element `x` can appear anywhere in the "right partition"; it does not need to appear between the left and right partitions. Example:
+
+```
+Input:  3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition = 5]
+Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
+```
