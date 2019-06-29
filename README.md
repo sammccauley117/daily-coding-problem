@@ -187,42 +187,42 @@ You are given the year, and you have to write a function to check if the year is
 ## Problem 21
 **Name**: Is Unique<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)<br>
 
 Implement an algorithm to determine if a string has all unique characters.
 
 ## Problem 22
 **Name**: Remove Duplicates<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)<br>
 
 Write code to remove duplicates from an unsorted linked list.
 
 ## Problem 23
 **Name**: Check Permutation<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)<br>
 
 Given two strings, write a method to decide if one is a permutation of the other.
 
 ## Problem 24
 **Name**: Insertion<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(1)
+**Time Complexity**: O(1)<br>
 
 You are given two 32-bit numbers, `N` and `M`, and two bit positions, `i` and `j`. Write a method to insert `M` into `N` such that `M` starts at bit `j` and ends at bit `i`. You can assume that the bits `j` through `i` have enough space to fit all of `M`. That is, if `M = 10011`, you can just assume that there are at least 5 bits between `j` and `i`. You would not, for example, have `j = 3` and `i = 2`, because `M` could not fully fit between bit `3` and bit `2`.
 
 ## Problem 25
 **Name**: Urlify<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)<br>
 
 Write a method to replace all spaces in a string with '%20', removing all leading/tailing whitespace and repeated spaces.
 
 ## Problem 26
 **Name**: Return Kth to Last<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)<br>
 
 Implement an algorithm to find the kth to last element of a singly linked list.
 
@@ -235,8 +235,8 @@ Implement a class for the *LinkedList* data structure with public methods *appen
 ## Problem 28
 **Name**: Partition<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
-**Space Complexity**: O(1)
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
 
 Write code to partition a linked list around a value `x`, such that all nodes less than `x` come before all nodes greater than or equal to `x`. If `x` is contained within the list, the values of `x` only need to be after the elements less than `x` (see below). The partition element `x` can appear anywhere in the "right partition"; it does not need to appear between the left and right partitions. Example:
 
@@ -248,8 +248,8 @@ Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
 ## Problem 29
 **Name**: Palindrome Permutation<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
-**Space Complexity**: O(1)
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
 
 Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words. Example:
 
@@ -262,7 +262,20 @@ Reason: (permutations: 'taco cat', 'atco cta', etc.)
 ## Problem 30
 **Name**: Next Number<br>
 **Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(1)
-**Space Complexity**: O(1)
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
 
 Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation.
+
+## Problem 31
+**Name**: Conversion<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+Write a function to determine the number of bits you would need to flip to convert integer `a` to intger `b`. Example:
+
+```
+Input:  29 (0b11101), 15 (0b01111)
+Output: 2
+```
