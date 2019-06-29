@@ -245,19 +245,6 @@ Input:  3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition = 5]
 Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
 ```
 
-## Problem 28
-**Name**: Partition<br>
-**Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(n)
-**Space Complexity**: O(1)
-
-Write code to partition a linked list around a value `x`, such that all nodes less than `x` come before all nodes greater than or equal to `x`. If `x` is contained within the list, the values of `x` only need to be after the elements less than `x` (see below). The partition element `x` can appear anywhere in the "right partition"; it does not need to appear between the left and right partitions. Example:
-
-```
-Input:  3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition = 5]
-Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
-```
-
 ## Problem 29
 **Name**: Palindrome Permutation<br>
 **Source**: Cracking the Coding Interview<br>
@@ -271,3 +258,11 @@ Input:  Tact Coa
 Output: True
 Reason: (permutations: 'taco cat', 'atco cta', etc.)
 ```
+
+## Problem 30
+**Name**: Next Number<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)
+**Space Complexity**: O(1)
+
+Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation.
