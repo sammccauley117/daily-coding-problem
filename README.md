@@ -279,3 +279,11 @@ Write a function to determine the number of bits you would need to flip to conve
 Input:  29 (0b11101), 15 (0b01111)
 Output: 2
 ```
+
+## Problem 32
+**Name**: Binary Search<br>
+**Source**: Me<br>
+**Time Complexity**: O(log(n))<br>
+**Space Complexity**: O(1)<br>
+
+Implement the binary search algorithm on a sorted array. Return `-1` if the target element was not found.
