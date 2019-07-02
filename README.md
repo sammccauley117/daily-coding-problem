@@ -295,3 +295,9 @@ Implement the binary search algorithm on a sorted array. Return `-1` if the targ
 **Space Complexity**: O(n)<br>
 
 Write an algorithm to find the first `n` prime numbers.
+
+## Problem 34
+**Name**: Stack From Array<br>
+**Source**: Me<br>
+
+Implement a class for the *Stack* data structure using an array. The Stack should have public methods *append()*, *pop()*, and *print()*.
