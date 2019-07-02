@@ -287,3 +287,11 @@ Output: 2
 **Space Complexity**: O(1)<br>
 
 Implement the binary search algorithm on a sorted array. Return `-1` if the target element was not found.
+
+## Problem 33
+**Name**: Prime Numbers<br>
+**Source**: Me<br>
+**Time Complexity**: O(n*p(n)) where p(n) is the n'th prime<br>
+**Space Complexity**: O(n)<br>
+
+Write an algorithm to find the first `n` prime numbers.
