@@ -291,7 +291,7 @@ Implement the binary search algorithm on a sorted array. Return `-1` if the targ
 ## Problem 33
 **Name**: Prime Numbers<br>
 **Source**: Me<br>
-**Time Complexity**: O(n*p(n)) where p(n) is the n'th prime<br>
+**Time Complexity**: O(n\*p(n)) where p(n) is the n'th prime<br>
 **Space Complexity**: O(n)<br>
 
 Write an algorithm to find the first `n` prime numbers.
@@ -301,3 +301,16 @@ Write an algorithm to find the first `n` prime numbers.
 **Source**: Me<br>
 
 Implement a class for the *Stack* data structure using an array. The Stack should have public methods *append()*, *pop()*, and *print()*.
+
+## Problem 35
+**Name**: Loop Detection<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(n)<br>
+
+Given a circular linked list, implement an algorithm that returns the node at the beginning of the loop. A circular linked list is a (corrupt) linked list in which a node's next pointer points to an earlier node, so as to make a loop in the linked list. Example:
+
+```
+Input:  A -> B -> C -> D -> E -> C [the same C as earlier]
+Output: C
+```
