@@ -314,3 +314,16 @@ Given a circular linked list, implement an algorithm that returns the node at th
 Input:  A -> B -> C -> D -> E -> C [the same C as earlier]
 Output: C
 ```
+
+## Problem 36
+**Name**: Reverse Words in a String<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**Python Score**: 32ms (91st percentile)<br>
+
+Given an input string, reverse the string word by word. Example:
+
+```
+Input: "the sky is blue"
+Output: "blue is sky the"
+```
