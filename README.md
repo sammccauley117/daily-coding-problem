@@ -333,3 +333,9 @@ Output: "blue is sky the"
 **Source**: Me<br>
 
 Implement the *Depth First Search* algorithm to determine if a value is present in a graph or not.
+
+## Problem 38
+**Name**: Breadth First Search<br>
+**Source**: Me<br>
+
+Implement the *Breadth First Search* algorithm to determine if a value is present in a graph or not.
