@@ -327,3 +327,9 @@ Given an input string, reverse the string word by word. Example:
 Input: "the sky is blue"
 Output: "blue is sky the"
 ```
+
+## Problem 37
+**Name**: Depth First Search<br>
+**Source**: Me<br>
+
+Implement the *Depth First Search* algorithm to determine if a value is present in a graph or not.
