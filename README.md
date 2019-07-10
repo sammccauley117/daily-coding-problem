@@ -363,3 +363,11 @@ Given a binary tree, design an alforithm which creates a linked list of all the 
 **Space Complexity**: O(n)<br>
 
 Implement a method to perform basic string compression using the counts of repeated characters. For example, the string `aabcccccaaa` would become `a2b1c5a3`. If the 'compressed' string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a-z).
+
+## Problem 42
+**Name**: Pairwise Swap<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on).
