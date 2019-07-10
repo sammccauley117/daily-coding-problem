@@ -355,3 +355,11 @@ Given a sorted (increasing order) array with unique integer elements, write an a
 **Space Complexity**: O(n)<br>
 
 Given a binary tree, design an alforithm which creates a linked list of all the nodes at each depth (e.g., if you have a tree with depth `D`, you'll have `D` linked lists).
+
+## Problem 41
+**Name**: String Compression<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(n)<br>
+
+Implement a method to perform basic string compression using the counts of repeated characters. For example, the string `aabcccccaaa` would become `a2b1c5a3`. If the 'compressed' string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a-z).
