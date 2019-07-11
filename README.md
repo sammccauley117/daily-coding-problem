@@ -371,3 +371,11 @@ Implement a method to perform basic string compression using the counts of repea
 **Space Complexity**: O(1)<br>
 
 Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on).
+
+## Problem 43
+**Name**: Breadth First Search<br>
+**Source**: Me<br>
+**Time Complexity**: O(nlog(n))<br>
+**Space Complexity**: O(n)<br>
+
+Implement the *Merge Sort* algorithm to sort a list of numbers.
