@@ -387,3 +387,16 @@ Implement the *Merge Sort* algorithm to sort a list of numbers.
 **Space Complexity**: O(n)<br>
 
 Implement the *Quick Sort* algorithm to sort a list of numbers.
+
+## Problem 45
+**Name**: Length of Last Word<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 28ms (96th percentile)<br>
+
+Given a string s consists of upper/lower-case alphabets and empty space characters `' '`, return the length of last word in the string. If the last word does not exist, return 0. Note: A word is defined as a character sequence consists of non-space characters only. Example:
+
+```
+Input: "Hello World"
+Output: 5
+```
