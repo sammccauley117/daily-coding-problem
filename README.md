@@ -400,3 +400,9 @@ Given a string s consists of upper/lower-case alphabets and empty space characte
 Input: "Hello World"
 Output: 5
 ```
+
+## Problem 46
+**Name**: Doubly LinkedList<br>
+**Source**: Me<br>
+
+Implement a class for the *Doubly LinkedList* data structure with public methods *append()* and *print()*.
