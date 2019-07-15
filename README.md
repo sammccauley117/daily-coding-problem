@@ -406,3 +406,11 @@ Output: 5
 **Source**: Me<br>
 
 Implement a class for the *Doubly LinkedList* data structure with public methods *append()* and *print()*.
+
+## Problem 47
+**Name**: Palindrome<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
+
+Implement a function to check if a linked list is a palindrome.
