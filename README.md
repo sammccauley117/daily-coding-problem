@@ -414,3 +414,9 @@ Implement a class for the *Doubly LinkedList* data structure with public methods
 **Space Complexity**: O(1)<br>
 
 Implement a function to check if a linked list is a palindrome.
+
+## Problem 48
+**Name**: Doubly LinkedList (C++)<br>
+**Source**: Me<br>
+
+Implement a class for the *Doubly LinkedList* data structure with public methods *append()* and *print()*.
