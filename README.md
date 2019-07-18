@@ -420,3 +420,11 @@ Implement a function to check if a linked list is a palindrome.
 **Source**: Me<br>
 
 Implement a class for the *Doubly LinkedList* data structure with public methods *append()* and *print()*.
+
+## Problem 49
+**Name**: Triple Step<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(3^n)<br>
+**Space Complexity**: O(n)<br>
+
+A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
