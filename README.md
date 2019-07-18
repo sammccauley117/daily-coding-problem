@@ -428,3 +428,11 @@ Implement a class for the *Doubly LinkedList* data structure with public methods
 **Space Complexity**: O(n)<br>
 
 A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
+
+## Problem 50
+**Name**: Is Rotation<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(A + B)<br>
+**Space Complexity**: O(1)<br>
+
+A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
