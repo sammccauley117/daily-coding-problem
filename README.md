@@ -430,9 +430,23 @@ Implement a class for the *Doubly LinkedList* data structure with public methods
 A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
 
 ## Problem 50
-**Name**: Is Rotation<br>
+**Name**: String Rotation<br>
 **Source**: Cracking the Coding Interview<br>
 **Time Complexity**: O(A + B)<br>
 **Space Complexity**: O(1)<br>
 
-A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
+Given two strings, `s1` and `s2`, write code to check if `s2` is a rotation of `s1`. Example: `waterbottle` is a rotation of `erbottlewat`.
+
+## Problem 51
+**Name**: Palindrome Permutation (C++)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(n)<br>
+
+Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words. Example:
+
+```
+Input:  Tact Coa
+Output: True
+Reason: (permutations: 'taco cat', 'atco cta', etc.)
+```
