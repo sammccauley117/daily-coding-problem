@@ -450,3 +450,11 @@ Input:  Tact Coa
 Output: True
 Reason: (permutations: 'taco cat', 'atco cta', etc.)
 ```
+
+## Problem 52
+**Name**: Is Unique<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Time Complexity**: O(1)<br>
+
+Implement an algorithm to determine if a string has all unique characters *without* additional data structures.
