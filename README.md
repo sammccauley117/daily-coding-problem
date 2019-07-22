@@ -455,6 +455,14 @@ Reason: (permutations: 'taco cat', 'atco cta', etc.)
 **Name**: Is Unique<br>
 **Source**: Cracking the Coding Interview<br>
 **Time Complexity**: O(n)<br>
-**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
 
 Implement an algorithm to determine if a string has all unique characters *without* additional data structures.
+
+## Problem 53
+**Name**: Zero Matrix<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(A*B)<br>
+**Space Complexity**: O(1)<br>
+
+Write an algorithm such that if an element in an `MxN` matrix is a 0, its entire row and column are set to 0.
