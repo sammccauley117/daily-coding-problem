@@ -466,3 +466,9 @@ Implement an algorithm to determine if a string has all unique characters *witho
 **Space Complexity**: O(1)<br>
 
 Write an algorithm such that if an element in an `MxN` matrix is a 0, its entire row and column are set to 0.
+
+## Problem 54
+**Name**: Three in One<br>
+**Source**: Cracking the Coding Interview<br>
+
+Use a single array to implement three stacks with operations *push( )*, *pop( )*, and *print( )*.
