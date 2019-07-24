@@ -473,8 +473,21 @@ Write an algorithm such that if an element in an `MxN` matrix is a 0, its entire
 
 Use a single array to implement three stacks with operations *push( )*, *pop( )*, and *print( )*.
 
-## Problem 54
+## Problem 55
 **Name**: Queue via Stacks<br>
 **Source**: Cracking the Coding Interview<br>
 
 Implement a *MyQueue* class which implements a queue using two stacks.
+
+## Problem 56
+**Name**: Sum Lists<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(A+B)<br>
+**Space Complexity**: O(A+B)<br>
+
+You have two numbers represented by a linked list, where each node contains a single digit. Suppose the digits are stored in forward order. Write a function that adds the two numbers and returns the sum as a linked list. Example:
+
+```
+Input:  (6 -> 1 -> 7) + (2 -> 9 -> 5). That is, 617 + 296.
+Output: 9 -> 1 -> 2. That is 912.
+```
