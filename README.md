@@ -472,3 +472,9 @@ Write an algorithm such that if an element in an `MxN` matrix is a 0, its entire
 **Source**: Cracking the Coding Interview<br>
 
 Use a single array to implement three stacks with operations *push( )*, *pop( )*, and *print( )*.
+
+## Problem 54
+**Name**: Queue via Stacks<br>
+**Source**: Cracking the Coding Interview<br>
+
+Implement a *MyQueue* class which implements a queue using two stacks.
