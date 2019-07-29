@@ -514,17 +514,17 @@ Output: 2 -> 1 -> 9. That is 912.
 Given two (singly) linked list, determine if the two lists intersect. Return the intersecting node. Note that the intersection is defined based on reference, not value. That is, if the kth node of the first linked list is the exact same node (by reference) of the jth node of the second linked list, then they are intersecting.
 
 ## Problem 59
-**Name**: Intersection<br>
-**Source**: Cracking the Coding Interview<br>
-**Time Complexity**: O(A+B)<br>
-**Space Complexity**: O(A+B)<br>
-
-Given two (singly) linked list, determine if the two lists intersect. Return the intersecting node. Note that the intersection is defined based on reference, not value. That is, if the kth node of the first linked list is the exact same node (by reference) of the jth node of the second linked list, then they are intersecting.
-
-## Problem 60
 **Name**: Palindrome (C++)<br>
 **Source**: Cracking the Coding Interview<br>
 **Time Complexity**: O(n)<br>
 **Space Complexity**: O(1)<br>
 
 Implement a function to check if a linked list is a palindrome.
+
+## Problem 60
+**Name**: Triple Step (C++)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(3^n)<br>
+**Space Complexity**: O(n)<br>
+
+A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
