@@ -528,3 +528,16 @@ Implement a function to check if a linked list is a palindrome.
 **Space Complexity**: O(n)<br>
 
 A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
+
+## Problem 61
+**Name**: Length of Last Word (C++)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 0ms (100th percentile)<br>
+
+Given a string s consists of upper/lower-case alphabets and empty space characters `' '`, return the length of last word in the string. If the last word does not exist, return 0. Note: A word is defined as a character sequence consists of non-space characters only. Example:
+
+```
+Input: "Hello World"
+Output: 5
+```
