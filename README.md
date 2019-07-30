@@ -541,3 +541,11 @@ Given a string s consists of upper/lower-case alphabets and empty space characte
 Input: "Hello World"
 Output: 5
 ```
+
+## Problem 62
+**Name**: Pairwise Swap (Python)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+Write a program to swap odd and even bits in an integer with as few instructions as possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on).
