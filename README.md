@@ -575,7 +575,7 @@ Output: C
 **Name**: Maximum Depth of Binary Tree<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 8ms (88th percentile)<br>
+**C++ Score**: 8ms (88th percentile)<br>
 
 Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children. Example:
 
@@ -588,3 +588,29 @@ Given binary tree [3,9,20,null,null,15,7],
    15   7
 ```
 return its depth = 3.
+
+
+## Problem 66
+**Name**: Symmetric Tree<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 36ms (92nd percentile)<br>
+
+Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center). For example, this binary tree `[1,2,2,3,4,4,3]` is symmetric:
+
+```
+    1
+   / \
+  2   2
+ / \ / \
+3  4 4  3
+```
+
+But the following `[1,2,2,null,3,null,3]` is not:
+```
+    1
+   / \
+  2   2
+   \   \
+   3    3
+```
