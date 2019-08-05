@@ -643,3 +643,11 @@ Output: false
 Input: "{[]}"
 Output: true
 ```
+
+## Problem 68
+**Name**: Hamming Distance (Python)<br>
+**Source**: Me<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
