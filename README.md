@@ -589,7 +589,6 @@ Given binary tree [3,9,20,null,null,15,7],
 ```
 return its depth = 3.
 
-
 ## Problem 66
 **Name**: Symmetric Tree<br>
 **Difficulty**: Easy<br>
@@ -613,4 +612,34 @@ But the following `[1,2,2,null,3,null,3]` is not:
   2   2
    \   \
    3    3
+```
+
+## Problem 67
+**Name**: Valid Parentheses<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 36ms (77th percentile)<br>
+
+Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid. An input string is valid if:
+
+- Open brackets must be closed by the same type of brackets.
+- Open brackets must be closed in the correct order.
+
+Note that an empty string is also considered valid. Examples:
+
+```
+Input: "()"
+Output: true
+
+Input: "()[]{}"
+Output: true
+
+Input: "(]"
+Output: false
+
+Input: "([)]"
+Output: false
+
+Input: "{[]}"
+Output: true
 ```
