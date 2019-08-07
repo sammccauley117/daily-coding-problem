@@ -651,3 +651,21 @@ Output: true
 **Space Complexity**: O(1)<br>
 
 The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
+
+## Problem 69
+**Name**: Hamming Distance (Python)<br>
+**Difficulty**: Medium<br>
+**Source**: LeetCode<br>
+**Python Score**: 32ms (92nd percentile)<br>
+
+Given a binary tree, return the inorder traversal of its nodes' values. Example:
+
+```
+Input: [1,null,2,3]
+   1
+    \
+     2
+    /
+   3
+Output: [1,3,2]
+```
