@@ -674,7 +674,7 @@ Output: [1,3,2]
 **Name**: Remove Element<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 0ms (100th percentile)<br>
+**C++ Score**: 0ms (100th percentile)<br>
 
 Given an array *nums* and a value *val*, remove all instances of that value **in-place** and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory. The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
@@ -691,3 +691,22 @@ Note that the order of those five elements can be arbitrary.
 ```
 
 It doesn't matter what values are set beyond the returned length.
+
+## Problem 70
+**Name**: Implement strStr<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 4ms (91st percentile)<br>
+
+Implement strStr(). Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+```
+Example 1:
+Input: haystack = "hello", needle = "ll"
+Output: 2
+
+Example 2:
+Input: haystack = "aaaaa", needle = "bba"
+Output: -1
+```
+Clarification: For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
