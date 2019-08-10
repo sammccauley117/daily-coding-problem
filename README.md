@@ -692,11 +692,11 @@ Note that the order of those five elements can be arbitrary.
 
 It doesn't matter what values are set beyond the returned length.
 
-## Problem 70
+## Problem 71
 **Name**: Implement strStr<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 4ms (91st percentile)<br>
+**C++ Score**: 4ms (91st percentile)<br>
 
 Implement strStr(). Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
@@ -710,3 +710,11 @@ Input: haystack = "aaaaa", needle = "bba"
 Output: -1
 ```
 Clarification: For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
+
+## Problem 72
+**Name**: Encode and Decode TinyURL<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Python Score**: 24ms (46th percentile)<br>
+
+TinyURL is a URL shortening service where you enter a URL such as `https://leetcode.com/problems/design-tinyurl` and it returns a short URL such as `http://tinyurl.com/4e9iAk`. Design the `encode` and `decode` methods for the TinyURL service. There is no restriction on how your encode/decode algorithm should work. You just need to ensure that a URL can be encoded to a tiny URL and the tiny URL can be decoded to the original URL.
