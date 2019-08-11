@@ -723,6 +723,24 @@ TinyURL is a URL shortening service where you enter a URL such as `https://leetc
 **Name**: Two Sum (Swift)<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 32ms (93rd percentile)<br>
+**Swift Score**: 32ms (93rd percentile)<br>
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+## Problem 74
+**Name**: Single Number<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**C++ Score**: 16ms (67th percentile)<br>
+
+Given a *non-empty* array of integers, every element appears *twice* except for one. Find that single one. Note: your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
+```
+Example 1:
+Input: [2,2,1]
+Output: 1
+
+Example 2:
+Input: [4,1,2,1,2]
+Output: 4
+```
