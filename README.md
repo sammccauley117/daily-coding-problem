@@ -745,10 +745,40 @@ Input: [4,1,2,1,2]
 Output: 4
 ```
 
-## Problem 6
+## Problem 75
 **Name**: Reverse Integer (Swift)<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**Python Score**: 8ms (76th percentile)<br>
+**Swift Score**: 8ms (76th percentile)<br>
 
 Given a 32-bit signed integer, reverse digits of an integer. Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
+
+## Problem 76
+**Name**: Valid Parentheses (Swift)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Swift Score**: 4ms (97th percentile)<br>
+
+Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid. An input string is valid if:
+
+- Open brackets must be closed by the same type of brackets.
+- Open brackets must be closed in the correct order.
+
+Note that an empty string is also considered valid. Examples:
+
+```
+Input: "()"
+Output: true
+
+Input: "()[]{}"
+Output: true
+
+Input: "(]"
+Output: false
+
+Input: "([)]"
+Output: false
+
+Input: "{[]}"
+Output: true
+```
