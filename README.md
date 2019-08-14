@@ -782,3 +782,11 @@ Output: false
 Input: "{[]}"
 Output: true
 ```
+
+## Problem 77
+**Name**: Prime Numbers<br>
+**Source**: Me<br>
+**Time Complexity**: O(n\*p(n)) where p(n) is the n'th prime<br>
+**Space Complexity**: O(1)<br>
+
+Write an algorithm to find the first `n`th prime number.
