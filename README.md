@@ -784,9 +784,33 @@ Output: true
 ```
 
 ## Problem 77
-**Name**: Prime Numbers<br>
+**Name**: Prime Numbers (Swift)<br>
 **Source**: Me<br>
 **Time Complexity**: O(n\*p(n)) where p(n) is the n'th prime<br>
 **Space Complexity**: O(1)<br>
 
 Write an algorithm to find the first `n`th prime number.
+
+## Problem 78
+**Name**: Palindrome Number (Swift)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Swift Score**: 52ms (36th percentile)<br>
+
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+```
+Example 1:
+Input: 121
+Output: true
+
+Example 2:
+Input: -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+
+Example 3:
+Input: 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+```
