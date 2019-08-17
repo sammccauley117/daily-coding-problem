@@ -814,3 +814,11 @@ Input: 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```
+
+## Problem 17
+**Name**: Hamming Distance (Swift)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Swift Score**: 4ms (93rd percentile)<br>
+
+The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
