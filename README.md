@@ -815,7 +815,7 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```
 
-## Problem 17
+## Problem 79
 **Name**: Hamming Distance (Swift)<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
