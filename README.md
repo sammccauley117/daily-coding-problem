@@ -822,3 +822,16 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 **Swift Score**: 4ms (93rd percentile)<br>
 
 The *Hamming distance* between two integers is the number of positions at which the corresponding bits are different. Given two integers `x` and `y`, calculate the Hamming distance. Note: 0 ≤ x, y < 23^1
+
+## Problem 80
+**Name**: Length of Last Word (Swift)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Swift Score**: 4ms (97th percentile)<br>
+
+Given a string s consists of upper/lower-case alphabets and empty space characters `' '`, return the length of last word in the string. If the last word does not exist, return 0. Note: A word is defined as a character sequence consists of non-space characters only. Example:
+
+```
+Input: "Hello World"
+Output: 5
+```
