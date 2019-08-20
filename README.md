@@ -835,3 +835,11 @@ Given a string s consists of upper/lower-case alphabets and empty space characte
 Input: "Hello World"
 Output: 5
 ```
+
+## Problem 81
+**Name**: Is Unique (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+Implement an algorithm to determine if a string has all unique characters.
