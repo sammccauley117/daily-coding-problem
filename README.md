@@ -843,3 +843,11 @@ Output: 5
 **Space Complexity**: O(1)<br>
 
 Implement an algorithm to determine if a string has all unique characters.
+
+## Problem 82
+**Name**: Remove List Duplicates (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
+
+Write code to remove duplicates from an unsorted list of items.
