@@ -851,3 +851,11 @@ Implement an algorithm to determine if a string has all unique characters.
 **Space Complexity**: O(1)<br>
 
 Write code to remove duplicates from an unsorted list of items.
+
+## Problem 83
+**Name**: Sqrt(x) (Swift)<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**Swift Score**: 8ms (83rd percentile)<br>
+
+Implement int sqrt(int x). Compute and return the square root of x, where x is guaranteed to be a non-negative integer. Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
