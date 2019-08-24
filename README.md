@@ -861,9 +861,22 @@ Write code to remove duplicates from an unsorted list of items.
 Implement int sqrt(int x). Compute and return the square root of x, where x is guaranteed to be a non-negative integer. Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
 
 ## Problem 84
-**Name**: Remove Linked List Duplicates<br>
+**Name**: Remove Linked List Duplicates (Swift)<br>
 **Source**: Cracking the Coding Interview<br>
 **Time Complexity**: O(n)<br>
 **Space Complexity**: (n)<br>
 
 Write code to remove duplicates from an unsorted linked list.
+
+## Problem 85
+**Name**: Loop Detection (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(n)<br>
+
+Given a circular linked list, implement an algorithm that returns the node at the beginning of the loop. A circular linked list is a (corrupt) linked list in which a node's next pointer points to an earlier node, so as to make a loop in the linked list. Example:
+
+```
+Input:  A -> B -> C -> D -> E -> C [the same C as earlier]
+Output: C
+```
