@@ -880,3 +880,11 @@ Given a circular linked list, implement an algorithm that returns the node at th
 Input:  A -> B -> C -> D -> E -> C [the same C as earlier]
 Output: C
 ```
+
+## Problem 86
+**Name**: Check Permutation (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(n)<br>
+
+Given two strings, write a method to decide if one is a permutation of the other.
