@@ -888,3 +888,17 @@ Output: C
 **Space Complexity**: O(n)<br>
 
 Given two strings, write a method to decide if one is a permutation of the other.
+
+## Problem 87
+**Name**: Palindrome Permutation (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
+
+Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words. Example:
+
+```
+Input:  tact coa
+Output: True
+Reason: (permutations: 'taco cat', 'atco cta', etc.)
+```
