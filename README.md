@@ -910,3 +910,11 @@ Reason: (permutations: 'taco cat', 'atco cta', etc.)
 **Space Complexity**: O(n)<br>
 
 A child is running up a staircase with `n` steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a recursive method to count how many possible ways the child can run up the stairs.
+
+## Problem 89
+**Name**: Next Number (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(1)<br>
+**Space Complexity**: O(1)<br>
+
+Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation.
