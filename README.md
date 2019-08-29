@@ -918,3 +918,9 @@ A child is running up a staircase with `n` steps and can hop either 1 step, 2 st
 **Space Complexity**: O(1)<br>
 
 Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation.
+
+## Problem 90
+**Name**: Doubly LinkedList (Swift)<br>
+**Source**: Me<br>
+
+Implement a class for the *Doubly LinkedList* data structure with public methods *append()* and *toStr()*.
