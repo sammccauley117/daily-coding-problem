@@ -941,7 +941,7 @@ Implement a function to check if a linked list is a palindrome.
 
 Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue. Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively. Note: You are not suppose to use the library's sort function for this problem.
 
-## Problem 15
+## Problem 93
 **Name**: Gray Code<br>
 **Difficulty**: Medium<br>
 **Source**: LeetCode<br>
@@ -963,3 +963,21 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 11 - 3
 01 - 1
 ```
+
+## Problem 94
+**Name**: Maximum Depth of Binary Tree<br>
+**Difficulty**: Easy<br>
+**Source**: LeetCode<br>
+**C++ Score**: 24ms (99th percentile)<br>
+
+Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children. Example:
+
+Given binary tree [3,9,20,null,null,15,7],
+```
+    3
+   / \
+  9  20
+    /  \
+   15   7
+```
+return its depth = 3.
