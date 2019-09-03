@@ -942,7 +942,7 @@ Implement a function to check if a linked list is a palindrome.
 Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue. Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively. Note: You are not suppose to use the library's sort function for this problem.
 
 ## Problem 93
-**Name**: Gray Code<br>
+**Name**: Gray Code (Swift)<br>
 **Difficulty**: Medium<br>
 **Source**: LeetCode<br>
 
@@ -965,10 +965,10 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 ```
 
 ## Problem 94
-**Name**: Maximum Depth of Binary Tree<br>
+**Name**: Maximum Depth of Binary Tree (Swift)<br>
 **Difficulty**: Easy<br>
 **Source**: LeetCode<br>
-**C++ Score**: 24ms (99th percentile)<br>
+**Swift Score**: 24ms (99th percentile)<br>
 
 Given a binary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node. Note: A leaf is a node with no children. Example:
 
@@ -982,10 +982,33 @@ Given binary tree [3,9,20,null,null,15,7],
 ```
 return its depth = 3.
 
-## Problem 52
+## Problem 95
 **Name**: Is Unique (Swift)<br>
 **Source**: Cracking the Coding Interview<br>
 **Time Complexity**: O(n)<br>
 **Space Complexity**: O(1)<br>
 
 Implement an algorithm to determine if a string has all unique characters *without* additional data structures.
+
+## Problem 95
+**Name**: Is Unique (Swift)<br>
+**Source**: LeetCode<br>
+**Difficulty**: Medium<br>
+**Swift Score**: 4ms (100th percentile)<br>
+
+Given a set of distinct integers, `nums`, return all possible subsets (the power set). Note: The solution set must not contain duplicate subsets.
+
+```
+Input: nums = [1,2,3]
+Output:
+[
+  [3],
+  [1],
+  [2],
+  [1,2,3],
+  [1,3],
+  [2,3],
+  [1,2],
+  []
+]
+```
