@@ -981,3 +981,11 @@ Given binary tree [3,9,20,null,null,15,7],
    15   7
 ```
 return its depth = 3.
+
+## Problem 52
+**Name**: Is Unique (Swift)<br>
+**Source**: Cracking the Coding Interview<br>
+**Time Complexity**: O(n)<br>
+**Space Complexity**: O(1)<br>
+
+Implement an algorithm to determine if a string has all unique characters *without* additional data structures.
