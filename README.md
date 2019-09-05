@@ -1039,3 +1039,26 @@ For example, two is written as `II` in Roman numeral, just two one's added toget
 - `C` can be placed before `D` (500) and `M` (1000) to make `400` and `900`.
 
 Given an integer, convert it to a roman numeral. Input is guaranteed to be within the range from `1` to `3999`.
+
+## Problem 98
+**Name**: Set Matrix Zeroes (Swift)<br>
+**Source**: LeetCode<br>
+**Difficulty**: Medium<br>
+**Swift Score**: 124ms (90th percentile)<br>
+
+Given a *m* x *n* matrix, if an element is 0, set its entire row and column to 0. Do it **in-place**.
+
+```
+Input:
+[
+  [0,1,2,0],
+  [3,4,5,2],
+  [1,3,1,5]
+]
+Output:
+[
+  [0,0,0,0],
+  [0,4,5,0],
+  [0,3,1,0]
+]
+```
