@@ -1084,3 +1084,9 @@ Input: [[1,3],[3,0,1],[2],[0]]
 Output: false
 Explanation: We can't enter the room with number 2.
 ```
+
+## Problem 100
+**Name**: Eight Queens (Python)<br>
+**Source**: Cracking the Coding Interview<br>
+
+Write an algorithm to print all ways of arranging eight queens on an 8x8 chess board so that none of them share the same row, column, or diagonal. In this case, "diagonal" means all diagonals, not just the two that bisect the board.
